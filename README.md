@@ -1,6 +1,8 @@
-# STARTER-jpa03
+# jpa03-TheRealJBomb
 
 Running at: <https://jpa03-jgreenbaum.dokku-05.cs.ucsb.edu>
+
+GitHub Repository: <https://github.com/ucsb-cs156-s23/jpa03-TheRealJBomb>
 
 # Configuring GitHub Pages for the documentation
 
